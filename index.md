@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Yu's Homepage
 
 You can use the [editor on GitHub](https://github.com/yulin6/yulin6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
